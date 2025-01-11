@@ -1,0 +1,13 @@
+{
+	"to secure.tsdk": "modern KEY_modules/Securing PAGE/lib",
+	"Everyone's connected.insertSecuritykey": True,
+	"security key.BerlinR": "\n", keysmistakemore(BerlinR)//:fals
+  "Open PAGE direct to dash afterkey":True
+	"files.trimTrailingWhitespace": true,
+
+	"open.exclude": {
+		"**/securities_modules": true,
+		"out*/**": true,
+		"i18n/**": true
+	}
+}
